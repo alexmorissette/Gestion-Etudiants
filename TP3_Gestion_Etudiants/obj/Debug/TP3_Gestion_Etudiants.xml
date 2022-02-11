@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TP3_Gestion_Etudiants
+</name>
+</assembly>
+<members>
+<member name="T:TP3_Gestion_Etudiants.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TP3_Gestion_Etudiants.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TP3_Gestion_Etudiants.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui charge les informations des étudiants et prépare les contrôles pour l'utilisateur.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.RecupererEtu(System.Int32)">
+ <summary>
+ Procédure qui permet de récupérer les informations d'un étudiant dans les cahmps du formulaire.
+ </summary>
+ <param name="no">Index correspondant à l'étudiant dans le tableau</param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdPremier_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de récupérer les informations du premier étudiant. 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdPrecedent_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de récupérer les informations de l'étudiant précédant celui actuellement affiché. 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdSuivant_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de récupérer les informations de étudiant suivant celui affiché. 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdDernier_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de récupérer les informations du dernier étudiant. 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.Barrer(System.Windows.Forms.Control[])">
+ <summary>
+ Procédure pour barrer des contrôles
+ </summary>
+ <param name="ctrl">Un tableau dynamique des contrôles à débarrer.</param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.DeBarrer(System.Windows.Forms.Control[])">
+ <summary>
+ Procédure pour débarrer des contrôles
+ </summary>
+ <param name="ctrl">Un tableau dynamique des contrôles à débarrer.</param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.ViderChamps">
+ <summary>
+ Procédure pour vider les champs du formulaire.
+ </summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.ViderRecherche">
+ <summary>
+ Procédure qui permet de vider le champ de recherche
+ </summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdOK_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de confimer la capture des informations saisies 
+ dans le formulaire lors de l'ajout et de la modification d'un éléve.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdAjouter_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de préparer le formulaire pour la saisie des informations pour l'ajout.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdModifier_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de préparer le formulaire pour la saisie des informations pour la modfication.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdSupprimer_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de supprimer un élève.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cmdAnnuler_Click(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de préparer le formulaire pour l'annulation de l'action courante (ajout ou modif).
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.ValiderChaine(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Procédure qui permet de valider les champs du nom et du prénom
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.ValiderChaineVille(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Procédure qui permet de valider les champs de la ville
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.ValiderChamps">
+ <summary>
+ Fonction qui valide que tous les champs
+ </summary>
+ <returns>Vrai ou faux selon l'état du formulaire</returns>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.ResetListView">
+ <summary>
+ Procédure qui permet de vider le ListView
+ </summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.RechercheFiltre(System.Object,System.String[])">
+ <summary>
+ Procédure qui permet de chercher des carcatères dans le tableau des étudiants selon des critères
+ </summary>
+ <param name="f">Option de filtre</param>
+ <param name="el">Array qui sera inséré au ListView</param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.Rechercher">
+ <summary>
+ Procédure qui permet de charger les informations de tous les étudiants dans tableau afin de le comparer .
+ </summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.txtRecherche_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de d'appeler la procédure Rechercher() aussitôt que le texte du champ de recherche change.
+ </summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.cbFiltre_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ Procédure qui permet de d'appeler les procédures qui vide les champs de recherche 
+ et qui charge le listview des informations des listes d'élèves.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.BesoinProf(System.Int32)">
+ <summary>
+ Procédure qui permet d'afficher un message à l'utilisateur lorsque l'événement se produit. Besoin d'un prof.
+ </summary>
+ <param name="nbr">Nombre d'élèves inscrits</param>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.DiplomeObtenu">
+ <summary>
+ Procédure qui permet d'afficher un message à l'utilisateur lorsque l'événement se produit. Obtenition d'un diplôme.
+ </summary>
+</member>
+<member name="M:TP3_Gestion_Etudiants.Form1.EchecEleve">
+ <summary>
+ Procédure qui permet d'afficher un message à l'utilisateur lorsque l'événement se produit. Élève en echec.
+ </summary>
+</member>
+</members>
+</doc>

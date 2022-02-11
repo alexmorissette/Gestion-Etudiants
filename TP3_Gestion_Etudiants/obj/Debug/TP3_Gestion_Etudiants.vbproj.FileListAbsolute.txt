@@ -1,0 +1,13 @@
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.Form1.resources
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.Resources.resources
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.vbproj.GenerateResource.cache
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.vbproj.CoreCompileInputs.cache
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\bin\Debug\TP3_Gestion_Etudiants.exe.config
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\bin\Debug\TP3_Gestion_Etudiants.exe
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\bin\Debug\TP3_Gestion_Etudiants.pdb
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\bin\Debug\TP3_Gestion_Etudiants.xml
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.exe
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.xml
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.pdb
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.vbproj.AssemblyReference.cache
+D:\MULTIHEXA\COURS\P34 - Programmation Orientée Objet\TP3 - Gestion Étudiants\TP3_Gestion_Etudiants\TP3_Gestion_Etudiants\obj\Debug\TP3_Gestion_Etudiants.frmApropos.resources
